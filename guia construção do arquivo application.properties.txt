@@ -1,0 +1,23 @@
+/*neste parametro update, sempre que a aplicação for iniciada realiza uma comparação com o banco de dados, caso nao, este atualiza.
+
+spring.jpa.hibernate.ddl-auto=update
+
+----------------------------------------------
+
+/*neste parametro informamos o caminho do nosso programa backend e construimos um banco de dados para o mesmo, caso não exista.
+*onde esta Blog_Pessoal1 colocamos o nome do nosso projeto
+
+spring.datasource.url=jbc:mysql://localhost/Blog_Pessoal1?createDatabaseIfNotExist=true&serverTimezone=UTC&useSSl=false
+
+------------------------------------------------
+
+/*Parametro de user e senha para o novo banco de dados
+
+spring.datasource.username=root
+spring.datasource.password=root
+
+--------------------------------------------------
+
+/* spring.show-sql=true
+
+para mostrar no console cada alteração que esta sendo feita no banco de dados (pelo console eclipse)

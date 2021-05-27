@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping ("/helloWorld2")
+@RequestMapping ("/Tarefa2Controller")
 
 public class Tarefa2Controller 
 {

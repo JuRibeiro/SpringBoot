@@ -1,0 +1,58 @@
+BackEnd 
+- Regra de negócio;
+- Integração com o front e o banco de dados;
+- processamento de dados.
+
+Comunicação BackEnd = json
+json : padrão de mensagem
+
+FrontEnd
+- Experiencia do usuário;
+- Coleta infomrações.
+
+API documentação
+
+API de geolococalização 
+       clima tempo 
+       dados bancarios (pag seguro)
+
+
+
+MAVEN - gerenciamento de dependencias
+
+Endpoint - caminho
+
+---------------------------------------------------
+
+Passos para realizar um projeto no Spring Boot 
+
+Browser > https://start.spring.io/ > Maven / Java / 2.5.0
+
+[...]
+
+Dependencias (bibliotecas: conjuntos de informações)
+- dev tools;
+- Spring web (devolve recurso, endpoints)
+
+Pressionar: Generate CTRL + Enter  
+
+Com o arquivo baixado, extrai-lo na area de trabalho.
+
+Importar para o Eclipse, escrever o controler e executar run as 
+
+abrir o Postman no verbo GET e informar a URI do programa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
