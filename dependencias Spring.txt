@@ -1,0 +1,7 @@
+Dependencias que sempre temos que ter no spring:
+
+DevTools
+Validation
+Spring Web 
+JPA
+MySQL
